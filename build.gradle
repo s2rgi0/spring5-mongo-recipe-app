@@ -38,7 +38,6 @@ dependencies {
 	compile 'org.webjars:bootstrap:3.3.7-1'
 	compileOnly('org.projectlombok:lombok')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
-	implementation 'com.google.code.findbugs:jsr305:3.0.2'
 
 }
 
